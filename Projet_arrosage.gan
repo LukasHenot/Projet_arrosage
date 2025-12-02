@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Projet arrosage" company="STI2D" webLink="http://" view-date="2025-11-21" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
+<?xml version="1.0" encoding="UTF-8"?><project name="Projet arrosage" company="STI2D" webLink="http://" view-date="2025-11-15" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
     <description><![CDATA[Projet de création d'un système d'arrosage ]]></description>
     <view zooming-state="default:2" id="gantt-chart">
-        <field id="tpd15" name="Notes" width="20" order="-1"/>
         <field id="tpd3" name="Nom" width="200" order="0"/>
         <field id="tpd4" name="Date de début" width="75" order="1"/>
         <field id="tpd5" name="Date de fin" width="75" order="2"/>
+        <field id="tpd15" name="Notes" width="20" order="3"/>
         <option id="filter.completedTasks" value="false"/>
         <option id="filter.dueTodayTasks" value="false"/>
         <option id="filter.overdueTasks" value="false"/>
@@ -79,10 +79,21 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="0" uid="b29cbfc93f5a49dea17bc02dcba464aa" name="Recherche de types d'arrosages" meeting="false" start="2025-11-21" duration="1" complete="0" expand="true">
+        <task id="0" uid="b29cbfc93f5a49dea17bc02dcba464aa" name="Recherche de types d'arrosages" meeting="false" start="2025-11-21" duration="5" complete="0" webLink="https%3A%2F%2Flukashenot.github.io%2FProjet_arrosage%2FTache_1%2FCarte%2520mentale%2FMVHtmlExport%2Findex.htm" expand="true">
             <notes><![CDATA[Objectif: Trouver plusieurs systèmes d'arrosage different pour ensuite en faire une description et y insérer une vidéo
 
 Méthode: Recherches sur internet puis en faire une carte mentale
+
+
+
+Conclusion:]]></notes>
+        </task>
+        <task id="1" uid="c68595e9b6e145e99e2efdd498d69d43" name="Analyse du besoin" meeting="false" start="2025-11-28" duration="1" complete="0" expand="true">
+            <notes><![CDATA[Objectif: Analyser le besoin 
+
+
+
+Méthode:
 
 
 
@@ -96,5 +107,4 @@ Conclusion:]]></notes>
     <vacations/>
     <previous/>
     <roles roleset-name="Default"/>
-    <roles roleset-name="SoftwareDevelopment"/>
 </project>
