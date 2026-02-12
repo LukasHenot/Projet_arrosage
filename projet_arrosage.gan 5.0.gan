@@ -51,7 +51,7 @@ methode : faire des recherche sur un navigateur
 conclusion :  création d'une carte mentale sur les différents systèmes d'arrosage automatiques]]></notes>
             <depend id="1" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="1" uid="9de14451ee744a47a43422dbe4291a80" name="analyse du besoin" meeting="false" start="2025-11-28" duration="5" complete="100" webLink="https%3A%2F%2Fgithub.com%2Fjadenlecot%2Fprojet_arrosage%2Fblob%2Fmain%2FAnalyse_besoin%2F70A41D7F-F53E-44F7-8365-9D2235D54B4E-COLLAGE.jpeg%3Fraw%3Dtrue" expand="true">
+        <task id="1" uid="9de14451ee744a47a43422dbe4291a80" name="analyse du besoin" meeting="false" start="2025-11-28" duration="5" complete="100" webLink="https%3A%2F%2Flukashenot.github.io%2FProjet_arrosage%2FImages%2Fanalyse_du_besoin.png" expand="true">
             <notes><![CDATA[objectif : trouver ce qu'on a besoin pour faire ce projet
 
 
@@ -62,7 +62,7 @@ conclusion :]]></notes>
             <depend id="6" type="2" difference="0" hardness="Strong"/>
             <depend id="11" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="6" uid="e859c00742f3489f9092f4c4424182b2" name="brainstorming" meeting="false" start="2025-12-05" duration="10" complete="100" webLink="https%3A%2F%2Fi.ibb.co%2FYB8g3Vs8%2FIMG-1440.jpg" expand="true">
+        <task id="6" uid="e859c00742f3489f9092f4c4424182b2" name="brainstorming" meeting="false" start="2025-12-05" duration="10" complete="100" webLink="https%3A%2F%2Flukashenot.github.io%2FProjet_arrosage%2FImages%2Fcroquis.png" expand="true">
             <notes><![CDATA[objectif : faire le croquis de l'idée que l'on a de notre support
 
 
@@ -72,19 +72,19 @@ conclusion :]]></notes>
             <depend id="7" type="2" difference="0" hardness="Strong"/>
             <depend id="8" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="11" uid="1e98990dec204b63b01fb04547a22871" name="liste des composant" meeting="false" start="2025-12-05" duration="1" complete="100" webLink="file%3A%2F%2F%2FC%3A%2FUsers%2Fordi2409989%2FDownloads%2Fcomposant.pdf" expand="true">
+        <task id="11" uid="1e98990dec204b63b01fb04547a22871" name="liste des composant" meeting="false" start="2025-12-05" duration="1" complete="100" webLink="https%3A%2F%2Flukashenot.github.io%2FProjet_arrosage%2FImages%2Fcomposants.png" expand="true">
             <notes><![CDATA[objectif : savoir quels composant on doit utiliser et lesquels ont été utilisés
 
 Méthode: faire des recherches sur internet ]]></notes>
             <depend id="7" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="13" uid="5be2dcaed7134ba983db2b9d6d26ed46" name="chaine d'imformation et de puisance" meeting="false" start="2025-12-09" duration="1" complete="100" webLink="https%3A%2F%2Fi.ibb.co%2Fbg53SBhL%2FChat-GPT-Image-30-janv-2026-12-40-31.jpg" expand="true">
+        <task id="13" uid="5be2dcaed7134ba983db2b9d6d26ed46" name="chaine d'imformation et de puisance" meeting="false" start="2025-12-09" duration="1" complete="100" webLink="https%3A%2F%2Flukashenot.github.io%2FProjet_arrosage%2FImages%2Fcha%25C3%25AEnes_information_puissance.png" expand="true">
             <depend id="7" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="14" uid="923ca1f5c683479c8786f84479c5c1b6" name="tableau des entrées et sorties" meeting="false" start="2025-12-11" duration="1" complete="100" webLink="file%3A%2F%2F%2FC%3A%2FUsers%2Fordi2409989%2FDownloads%2FJADENNNN.pdf" expand="true">
+        <task id="14" uid="923ca1f5c683479c8786f84479c5c1b6" name="tableau des entrées et sorties" meeting="false" start="2025-12-11" duration="1" complete="100" webLink="https%3A%2F%2Flukashenot.github.io%2FProjet_arrosage%2FImages%2Ftableau_entr%25C3%25A9es_sorties.png" expand="true">
             <depend id="7" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="15" uid="e2baa636f55f4bac84725f812debed26" name="organigramme" meeting="false" start="2025-12-16" duration="1" complete="100" webLink="https%3A%2F%2Fi.ibb.co%2FN6Rs4GPK%2FCapture-d-cran-2026-02-03-094839.png" expand="true">
+        <task id="15" uid="e2baa636f55f4bac84725f812debed26" name="organigramme" meeting="false" start="2025-12-16" duration="1" complete="100" webLink="https%3A%2F%2Flukashenot.github.io%2FProjet_arrosage%2FImages%2Forganigramme.png" expand="true">
             <notes><![CDATA[organigramme de notre future programme]]></notes>
             <depend id="7" type="2" difference="0" hardness="Strong"/>
         </task>
@@ -98,7 +98,7 @@ methode : clipsage, scotchage des differentes pièces
 
 conclusion : boite montée]]></notes>
         </task>
-        <task id="7" uid="40aea8868b1046dc90d9fc612ccf2d69" name="conception du support sur solidwork" meeting="false" start="2025-12-19" duration="22" complete="100" webLink="https%3A%2F%2Fjadenlecot.github.io%2Fprojet_arrosage%2F3D_model%2Fwebgl_model.htm" expand="true">
+        <task id="7" uid="40aea8868b1046dc90d9fc612ccf2d69" name="conception du support sur solidwork" meeting="false" start="2025-12-19" duration="22" complete="100" webLink="https%3A%2F%2Flukashenot.github.io%2FProjet_arrosage%2FImages%2Fpi%25C3%25A8ce_3D.png" expand="true">
             <notes><![CDATA[objetif : faire de votre croquis une vrai boite 
 
 
@@ -108,7 +108,7 @@ methode : faire sur solidwork
 conclusion : plan 3D de la boite réalisée]]></notes>
             <depend id="10" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="10" uid="9229c27e39554d8ab953f410a6ca4d49" name="decoupe laser" meeting="false" start="2026-01-20" duration="4" complete="100" webLink="https%3A%2F%2Fi.ibb.co%2F0yS0Pt4n%2Fimage-2026-02-03-094225847.png" expand="true">
+        <task id="10" uid="9229c27e39554d8ab953f410a6ca4d49" name="decoupe laser" meeting="false" start="2026-01-20" duration="4" complete="100" webLink="https%3A%2F%2Flukashenot.github.io%2FProjet_arrosage%2FImages%2Fd%25C3%25A9coupe_laser.png" expand="true">
             <notes><![CDATA[objectif : faire la decoupe laser de notre modele solidwork
 
 
@@ -120,7 +120,7 @@ methode : installer laserbox et faire le placement des differentes parties
 conclusion : ]]></notes>
             <depend id="12" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="8" uid="6c8e3514b13945ffbd5e7bc70af80cdb" name="programmation" meeting="false" start="2025-12-19" duration="22" complete="100" webLink="https%3A%2F%2Fi.ibb.co%2FpjmMfYMQ%2FCapture-d-cran-2026-02-03-092830.png" expand="true">
+        <task id="8" uid="6c8e3514b13945ffbd5e7bc70af80cdb" name="programmation" meeting="false" start="2025-12-19" duration="22" complete="100" webLink="https%3A%2F%2Flukashenot.github.io%2FProjet_arrosage%2FImages%2Fprogamme.png" expand="true">
             <notes><![CDATA[objectif : faire la programmation avec les differents composant éléctrique
 
 
